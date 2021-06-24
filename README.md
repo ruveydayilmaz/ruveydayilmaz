@@ -11,9 +11,13 @@
 
 <br><h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ruveydayilmaz&show_icons=true&locale=en" alt="ruveydayilmaz" /></p>
+<p align="left">
+	<a href="https://github.com/ezgisubasi">
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ruveydayilmaz&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ruveydayilmaz"/>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruveydayilmaz&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ruveydayilmaz"/>
+	</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruveydayilmaz&show_icons=true&locale=en&layout=compact" alt="ruveydayilmaz" /></p>  
 <br><h3 align="left">Find me here:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruveyda-y%c4%b1lmaz-902005208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruveyda-y%c4%b1lmaz-902005208" height="40" /></a>
