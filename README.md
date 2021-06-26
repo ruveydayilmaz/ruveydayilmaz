@@ -12,7 +12,7 @@
 <br><h3 align="left">Stats:</h3>
 
 <p align="left">
-	<a href="https://github.com/ezgisubasi">
+	<a href="https://github.com/ruveydayilmaz">
 		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ruveydayilmaz&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ruveydayilmaz"/>
 		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruveydayilmaz&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ruveydayilmaz"/>
 	</a>
