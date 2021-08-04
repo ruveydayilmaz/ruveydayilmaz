@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my **personal website** 
-- 🌱 and learning more about **HTML CSS**
+- 🌱 and learning more about **JavaScript**
 - 💬 Ask me about anything 
 - 📫 How to reach me: **ruveydanryilmaz@gmail.com**
 
