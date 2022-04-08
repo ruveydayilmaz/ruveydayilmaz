@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my **final year project** 
-- 🌱 and learning more about **Flutter**
+- 🌱 and learning more about **React and Node.js**
 - 💬 Ask me about anything 
 - 📫 How to reach me: **ruveydanryilmaz@gmail.com**
 
