@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ruveyda<img src="https://media0.giphy.com/media/lSJyfxxuewjTBJZW3L/giphy.gif?cid=790b761140d844decf5819552e79f36fb69a5437be5041bc&rid=giphy.gif&ct=s"width="50"></h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruveydayilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ruveydayilmaz" /></p><br>
 
