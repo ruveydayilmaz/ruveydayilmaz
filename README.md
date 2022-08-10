@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruveydayilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ruveydayilmaz" /></p><br>
 
 
-- 🔭 I’m currently working on my **final year project** 
+- 🔭 I’m currently working as a **web developer** 
 - 🌱 and learning more about **React and Node.js**
 - 💬 Ask me about anything 
 - 📫 How to reach me: **ruveydanryilmaz@gmail.com**
