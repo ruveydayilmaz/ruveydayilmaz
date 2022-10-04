@@ -1,15 +1,19 @@
-<h1 align="center">Hi, I'm Ruveyda<img src="https://media0.giphy.com/media/lSJyfxxuewjTBJZW3L/giphy.gif?cid=790b761140d844decf5819552e79f36fb69a5437be5041bc&rid=giphy.gif&ct=s"width="50"></h1>
-<h3 align="center">Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruveydayilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ruveydayilmaz" /></p><br>
+<h1 align="center">
+	Hi, I'm Ruveyda
+	<img width="100px" src="./baby-yoda-star-wars.gif"/>
+</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruveydayilmaz&label=Profile%20views&color=74ba9b&style=flat" alt="ruveydayilmaz" /></p>
 
-- 🔭 I’m currently working as a **web developer** 
-- 🌱 and learning more about **React and Node.js**
-- 💬 Ask me about anything 
-- 📫 How to reach me: **ruveydanryilmaz@gmail.com**
+✨ I’m currently working as a **web developer** 
+<br/>
+🌱 and learning more about **React and Node.js**
+<br/>
+<br/>
 
-<br><h3 align="left">Stats:</h3>
+![React](https://img.shields.io/badge/-React-575656?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/-NodeJS-575656?style=flat&logo=node.js)&nbsp;![HTML](https://img.shields.io/badge/-HTML-575656?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;![CSS](https://img.shields.io/badge/-CSS-575656?style=flat&logo=CSS3&logoColor=239120)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-575656?style=flat&logo=javascript)&nbsp;![C#](https://img.shields.io/badge/-CSharp-575656?style=flat&logo=csharp)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-575656?style=flat&logo=mongodb)&nbsp;
+<br/>
 
 <p align="left">
 	<a href="https://github.com/ruveydayilmaz">
@@ -18,7 +22,4 @@
 	</a>
 </p>
 
-<br><h3 align="left">Find me here:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ruveyda-y%c4%b1lmaz-902005208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruveyda-y%c4%b1lmaz-902005208" height="40" /></a>
-</p>
+<p align="right"><img width="230px" src="baby-yoda.gif"/></p>
