@@ -6,9 +6,9 @@
 <br/>
 <br/>
 
-🧠  I'm learning React, Node.js and Web Socket. <br/>
-🤝  I'm open to collaborate on interesting projects where we can improve our skills! <br/>
-✉️  You can contact me at [ruveydanryilmaz@gmail.com](mailto:ruveydanryilmaz@gmail.com)
+🧠  I'm learning React, Node.js and Web Sockets <br/>
+🤝  I'm open to collaborate on projects where we can improve our skills <br/>
+✉️  I blog on my <a href="https://medium.com/@ruveydanryilmaz">Medium account</a> on topics I've learned. Feel free to take a look!
 <br/>
 
 <p align="left">
