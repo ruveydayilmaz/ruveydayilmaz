@@ -8,7 +8,7 @@
 
 🧠  I'm learning React, Node.js and Web Sockets <br/>
 🤝  I'm open to collaborate on projects where we can improve our skills <br/>
-✉️  I blog on my <a href="https://medium.com/@ruveydanryilmaz">Medium account</a> on topics I've learned. Feel free to take a look!
+✉️  I blog on my <a href="https://medium.com/@ruveydayilmaz">Medium account</a> on topics I've learned. Feel free to take a look!
 <br/>
 
 <p align="left">
