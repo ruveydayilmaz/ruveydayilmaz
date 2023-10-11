@@ -1,14 +1,9 @@
-<h1 align="center">
-	Hi, I'm Ruveyda <img src="https://media2.giphy.com/media/6qZGWX9WcllbDiUyZz/giphy.gif?cid=790b76115934b2fb0c9ca177bb836038d7b68876e0c3daaa&rid=giphy.gif&ct=s" width="60">
-</h1>
+`Hello there!` <sub><sup>21:22</sup></sub> <br/>
+`I'm Ruveyda, a Backend Developer.`  <sub><sup>21:22</sup></sub> <br/>
+`I'm open to collaborate on projects where we can improve our skills.`  <sub><sup>21:23</sup></sub> <br/>
+`If you enjoy my content, you can buy me a coffee☕Just click the image below!`  <sub><sup>21:23</sup></sub>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=ruveydayilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ruveydayilmaz" />
-<br/>
-<br/>
-
--  I'm learning Javascript and Web Sockets. Next mission: Java! <br/>
--  I'm open to collaborate on projects where we can improve our skills <br/>
--  I blog on my <a target="_blank" href="https://medium.com/@ruveydayilmaz">Medium account</a> on topics I've learned. Feel free to take a look!
-<br/>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H5IVCDC)
+<a href="https://ko-fi.com/H2H5IVCDC" target="_blank">
+	<img src="https://i.pinimg.com/564x/dd/93/0b/dd930b578e92657a17dcdb739aceb5bd.jpg" width="130"> 
+	<sub><sup>21:23</sup></sub> <img width="12" height="12" src="https://img.icons8.com/color/12/double-tick.png" alt="double-tick"/>
+</a> 
